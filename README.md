@@ -15,7 +15,7 @@ Sorting, Searching, Dynamic Programming, Greedy Algorithms, etc.
 
 ->Solutions: 
 
-Code implementations in Java, Python, and C++.
+Code implementations in Java.
 
 ->Interview Questions
 
