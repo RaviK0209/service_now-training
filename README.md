@@ -19,5 +19,5 @@ Code implementations in Java.
 
 ->Interview Questions
 
-Technical Questions: Commonly asked coding and problem-solving questions.
+Technical Questions: Frequently asked coding and problem-solving questions.
 
