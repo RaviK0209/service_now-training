@@ -11,7 +11,7 @@ Data Structures: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, etc.
 
 ->Algorithms: 
 
-Sorting, Searching, Dynamic Programming, Greedy Algorithms, etc.
+Sorting, Searching, Dynamic Programming, Greedy Algorithms, backtracking.
 
 ->Solutions: 
 
