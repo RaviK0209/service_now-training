@@ -19,5 +19,5 @@ Code implementations in Java.
 
 ->Interview Questions
 
-Technical Questions: Advanced SQl, OOPs concept, output questions.
+Technical Questions: Advanced SQl, OOPs concept, c++ output question.
 
